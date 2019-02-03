@@ -231,3 +231,5 @@ Scripts/cake/tools/
 
 # Rider/IntelliJ workspace options file
 **/.idea
+
+!**/Assets/**/*.obj
