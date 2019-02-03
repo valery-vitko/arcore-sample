@@ -3124,31 +3124,34 @@ namespace HelloAR
 		{
 			
 			// aapt resource value: 0x7f070000
-			public const int light_vertex = 2131165184;
+			public const int keep = 2131165184;
 			
 			// aapt resource value: 0x7f070001
-			public const int object_fragment = 2131165185;
+			public const int light_vertex = 2131165185;
 			
 			// aapt resource value: 0x7f070002
-			public const int object_vertex = 2131165186;
+			public const int object_fragment = 2131165186;
 			
 			// aapt resource value: 0x7f070003
-			public const int passthrough_fragment = 2131165187;
+			public const int object_vertex = 2131165187;
 			
 			// aapt resource value: 0x7f070004
-			public const int plane_fragment = 2131165188;
+			public const int passthrough_fragment = 2131165188;
 			
 			// aapt resource value: 0x7f070005
-			public const int plane_vertex = 2131165189;
+			public const int plane_fragment = 2131165189;
 			
 			// aapt resource value: 0x7f070006
-			public const int point_cloud_vertex = 2131165190;
+			public const int plane_vertex = 2131165190;
 			
 			// aapt resource value: 0x7f070007
-			public const int screenquad_fragment_oes = 2131165191;
+			public const int point_cloud_vertex = 2131165191;
 			
 			// aapt resource value: 0x7f070008
-			public const int screenquad_vertex = 2131165192;
+			public const int screenquad_fragment_oes = 2131165192;
+			
+			// aapt resource value: 0x7f070009
+			public const int screenquad_vertex = 2131165193;
 			
 			static Raw()
 			{
